@@ -4,5 +4,3 @@ plotly
 missingno
 selenium
 numpy
-re
-time
